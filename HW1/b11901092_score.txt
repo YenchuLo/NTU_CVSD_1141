@@ -1,0 +1,28 @@
+--- SCORE REPORT FOR ID: b11901092 ---
+
+FINAL STATUS: Score computed successfully.
+FINAL SCORE: 100.00
+
+--- CALCULATION BREAKDOWN ---
+Public Pattern:
+   I0: PASS
+   I1: PASS
+   I2: PASS
+   I3: PASS
+   I4: PASS
+   I5: PASS
+   I6: PASS
+   I7: PASS
+   I8: PASS
+   I9: PASS
+Hidden Pattern:
+   H0: PASS
+   H1: PASS
+   H2: PASS
+   H3: PASS
+   H4: PASS
+
+Note:
+   File Check: Submitted on time
+   Hierarchy Check: PASS
+   Spyglass Check: PASS
